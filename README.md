@@ -10,4 +10,13 @@ Por exemplo, o fatorial de
 
 3! = 3 ⋅ 2 ⋅ 1 = 6.
 
-![alt text](image.png)
+![alt text](/imgs/image.png)
+
+# ATUALIZADO v2
+
+atualizaçao no arquivo "mainV2.py"
+
+## CODIGO
+![alt text](/imgs/image-1.png)
+## SAIDA do Programa (TERMINAL)
+![alt text](/imgs/image2.png)
